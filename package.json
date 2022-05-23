@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@shopify/polaris": "^3.16.0",
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "faker": "^4.1.0",
     "idb": "^4.0.3",
     "react": "^16.8.6",
